@@ -1,6 +1,6 @@
 # html-challenges
 
-Desafios HTML do Discover da Rocketseat
+Desafios HTML do Discover da Rocketseat.
 Série de desafios básicos para praticar os conhecimentos em HTML.
 Disponível em https://app.rocketseat.com.br/discover/challenges/html-challenge
 
