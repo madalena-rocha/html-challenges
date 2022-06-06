@@ -1,8 +1,7 @@
 # html-challenges
 
-Desafios HTML do Discover da Rocketseat. <br>
+<a href="https://app.rocketseat.com.br/discover/challenges/html-challenge">Desafios HTML</a> do Discover da Rocketseat. <br>
 Série de desafios básicos para praticar os conhecimentos em HTML. <br>
-Disponível em https://app.rocketseat.com.br/discover/challenges/html-challenge
 
 ### 1. Glossário
 Objetivo: criar um glossário com no mínimo 4 tags HTML e suas definições.
